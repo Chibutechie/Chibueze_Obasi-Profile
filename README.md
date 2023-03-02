@@ -8,9 +8,9 @@ _**I'm a Data Analyst and a Power BI Developer**_
 
 - 👯 I’m looking to collaborate on projects using analytics to demystify data, and partner with more communities to talk about tech.
 
-- 🤔 I’m looking for help commuinities plan and organise bootcamps for students. 
+- 👷‍♂️ I’m looking to work with more student commuinities plan and organise bootcamps for students. 
 
-- 2023 Goals: Improve my analytics skills, and getting a job in tech
+- 2023 Goals: Improve my analytics skills, and getting a job in tech. 
 
 - My Portfolio (https://sites.google.com/view/chibuobasi)
 
