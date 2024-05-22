@@ -1,6 +1,6 @@
 ## Hi there, I'm Chibueze👋
 
-_**I'm a Data Analyst and a Power BI Developer💻**_
+_**I'm a Data Analyst**_
 
 - I currently use Microsoft Excel, Power BI, Power BI Service, and SQL for data analytics and querying. 
 
@@ -8,7 +8,7 @@ _**I'm a Data Analyst and a Power BI Developer💻**_
 
 - 👯 I’m looking to collaborate on projects using analytics to demystify data, and partner with more communities to talk about tech.
 
-- 👷‍♂️ I’m looking to work with more student commuinities plan and organise bootcamps for students. 
+- 👷‍♂️ I’m looking to work with more student communities to plan and organize boot camps for students. 
 
 - 2023 Goals: Improve my analytics skills, and getting a job in tech. 
 
